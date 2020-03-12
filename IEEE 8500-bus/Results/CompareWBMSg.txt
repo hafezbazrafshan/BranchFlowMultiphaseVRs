@@ -1,0 +1,2 @@
+ Network    & RegType     & Method     & Opt. Val.  & Feas. Obj. & Gap.       & VMin       & VMax       &  VUnbalance & MaxAngle    & L2L1       & CompTime  
+13-bus     &Mixed      & BM         & 0.3874      & 0.3871     & 0.0681     & 0.9619     &  1.0639     & 0.0359     &  0.65       & 0.04        &1.07        
